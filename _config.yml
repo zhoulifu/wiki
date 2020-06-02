@@ -1,17 +1,16 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
-url: "https://ashishchaudhary.in/hacker-blog"
+title: Wiki
+description: "Wiki Pages"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "zhoulifu"
+  email: ""
+  url: "https://zhoulifu.github.io/wiki"
 
 baseurl: /
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
-paginate_path: /page:num/
+paginate: 7
+paginate_path: /page/:num/
 
 defaults:
   -
@@ -27,7 +26,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-google_analytics: "UA-67838485-1"
 # Custom variables
-owner : "SomeHacker"
-year : "2017"
+owner : "zhoulifu"
+year : "2020"

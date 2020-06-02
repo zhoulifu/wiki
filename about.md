@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+This guy is so lazy that he leaves nothing.
